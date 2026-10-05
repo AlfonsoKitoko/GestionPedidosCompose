@@ -1,0 +1,27 @@
+# Gradle & Build outputs
+/.gradle
+/build
+/app/build
+/captures
+.externalNativeBuild
+.cxx
+
+# IDE & Configuración de Android Studio / IntelliJ
+/.idea
+*.iml
+*.iws
+*.ipr
+*.swp
+*.bak
+
+# Sistema Operativo
+.DS_Store
+Thumbs.db
+
+# Claves locales, Variables de Entorno y SDK
+local.properties
+
+# Firma de la App y Credenciales (Seguridad)
+*.keystore
+*.jks
+google-services.json
